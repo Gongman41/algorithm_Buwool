@@ -1,0 +1,52 @@
+[
+{
+    "model": "todos.todo",
+    "pk": 1,
+    "fields": {
+        "work": "django 공부",
+        "content": "DRF에 대한 이해",
+        "is_completed": false,
+        "created_at": "2024-02-26"
+    }
+},
+{
+    "model": "todos.todo",
+    "pk": 2,
+    "fields": {
+        "work": "알고리즘 스터디",
+        "content": "DFS와 BFS",
+        "is_completed": false,
+        "created_at": "2024-02-26"
+    }
+},
+{
+    "model": "todos.todo",
+    "pk": 3,
+    "fields": {
+        "work": "CS 스터디",
+        "content": "네트워크",
+        "is_completed": false,
+        "created_at": "2024-02-26"
+    }
+},
+{
+    "model": "todos.todo",
+    "pk": 4,
+    "fields": {
+        "work": "면접 스터디",
+        "content": "말 잘하는 법",
+        "is_completed": false,
+        "created_at": "2024-02-26"
+    }
+},
+{
+    "model": "todos.todo",
+    "pk": 5,
+    "fields": {
+        "work": "이력서 작성",
+        "content": "이력서 작성 예정 기업 정리",
+        "is_completed": false,
+        "created_at": "2024-02-26"
+    }
+}
+]
