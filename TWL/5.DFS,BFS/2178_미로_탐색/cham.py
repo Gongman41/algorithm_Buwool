@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+# sys.stdin = open('input.txt')
 from collections import deque
 
 dt_r = [1, -1, 0, 0]
