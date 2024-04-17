@@ -54,3 +54,56 @@ for i in range(nope):
 print(result)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import sys
+sys.stdin = open('input.txt')
+from collections import deque
+
+
+def bfs():
+    global day  # 얘를 언제 어케 처리를 해줘야
+    while q:
+        now_h, now_r, now_c = q.popleft()
+        for i in range(6):
+            next_h = now_h + dt_h[i]
+            next_r = now_r + dt_r[i]
+            next_c = now_c + dt_c[i]
+            if 0 <= next_h < H and 0 <= next_r < N and 0 <= next_c < M:
+                if box[next_h][next_r][next_c] == 0:
+                    box[next_h][next_r][next_c] = box[now_h][now_r][now_c] + 1
+                    q.append((next_h, next_r, next_c))
+
+
+dt_r = [0, 0, -1, 1, 0, 0]
+dt_c = [0, 0, -1, 1, 0, 0]
+dt_h = [-1, 0, 0, 0, 0, 1]
+
+M, N, H = map(int, input().split())
+box = [[list(map(int, input().split())) for _ in range(N)] for _ in range(H)]
+day = 0
+# print(box)
+q = deque()
+for h in range(H):
+    for n in range(N):
+        for m in range(M):
+            if box[h][n][m] == 1:       # 익은 애들 일단 q에 넣음
+                q.append((h, n, m))
+bfs()
+
+print(day)
+
