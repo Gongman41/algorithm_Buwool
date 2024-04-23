@@ -4,38 +4,7 @@
 --> o 갯수가 많을 수 없다
 --> x 랑 o 가 둘다 빙고인 경우는 나올 수 가 없다
 --> x만 빙고, o 빙고 아님 가능 
---> x가 두개가 빙고가 나올수 있는 경웅DAEDFGJKLASDFHG;LKFHS;LGKJAD;LKFJGHL;DSKFJG;LKJ
-DFKLBHSD;LFKGJHS;LDFHG
-DZFXGJL;KH'ZLD;KFGJ
-SHDF
-HSFG\SFHTG
-SFGH
-SRTH
-SHRT
-SRTH
-SRTH
-SRTH
-SRTH
-SRTH
-SRTH
-STHR
-SRTH
-RSTJ
-SRJY
-HJKKHK;AKERGHJLKHJ;AFWRETHJKRWEH;WferthklrftljkfweJL;KWfiol;jgerjiolrgejirgejiol;gaerjl;i
-geraljrgaejigaerlj;rga;ljergajl;i
-agj'aergj'aergjlgaj'gera;jigraejigraejol;gerrgaej'gaerjiogeajol;i
-garjp'iograepjo'rgeajp'gaerjop'rgaejop'
-gaerjp'gaerp'joegarjp'oaergjop'
-gaerp'jogaer'jopgaerj'opgrae'j;oaerg'j;o
-agji'erga'jgr'jaergj'aerg'jiprga'jaergj'gaer'jgarj'rgaejl
-gaeriljaergojerag;agerp'jergajiaergj'earjiaep'eajp'aj'aerjp'aergjp'agrjp'
-gaeh;a;aej'twrfojiaegrj'dfgajgjp'gawrfjol'garj'aergp'jgarjp'
-twji'wjaergj'garjp'oaergjop'gajp'argj'aegrj'agjop'awtgrjop'agjopgarjop'
-arfgji'gaj'rfgaj'arfgp'joaerg'jopgarop'jrgajop'awrj'j'w'jopgarjol'
-rgwj'gwP'GWRjo'gw;'jsd;flk'p;wgpdfg;lWGPCWWPWJPwgjopgjpwgpjorgpjo'gwjop'
-grj'gpjgerpjWRGPJO'Gwrjp'owfjop'gWRP'GR'JOPWRFTGJP'OWGJWrgpjo'gwro'pjgWRJ'P
-GWolWEFPJ'werejop'
+--> x가 두개가 빙고가 나올수 있는 경우
 
 xxx
 oo.
