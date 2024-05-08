@@ -12,7 +12,6 @@ for _ in range(n - 1):
     tree[p].append((c, d))
     tree[c].append((p, d))
 
-
 def dfs(start, distance):
     for next, next_d in tree[start]:
         if visited[next] == -1:
